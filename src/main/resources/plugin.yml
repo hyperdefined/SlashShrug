@@ -1,0 +1,7 @@
+name: SlashShrug
+version: ${project.version}
+main: lol.hyper.slashshrug.SlashShrug
+api-version: 1.17
+commands:
+  shrug:
+    usage: /shrug
